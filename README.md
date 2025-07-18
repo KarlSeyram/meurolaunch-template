@@ -3,7 +3,7 @@
 A clean and modern AI startup landing page built with HTML, CSS, and Bootstrap. Perfect for SaaS, AI tools, research products, and education startups.
 
 ## 🔗 Live Demo
-👉 [Click here to view the demo](https://yourusername.github.io/neurolaunch-template/)
+👉 [Click here to view the demo](https://KarlSeyram.github.io/neurolaunch-template/)
 
 ## 💻 Features
 - Responsive design
